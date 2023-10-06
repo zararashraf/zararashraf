@@ -1,42 +1,47 @@
+<!-- Visitor Badge -->
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
+<!-- Profile Header -->
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+World!+👋;+I'm+Zarar+Ashraf!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=45&center=true&vCenter=true&width=500&height=80&color=3498db&duration=4000&lines=Hello+World!+👋;+I'm+Zarar+Ashraf!;" />
 </h1>
 
+<!-- Introduction -->
 <h3 align="center">A passionate software developer from Pakistan 🇵🇰</h3>
 
-<br/>
-
+<!-- Main Content -->
 <div align="center">
  
- 🔭 I’m currently working on **a chat app**
+ 🔭 I’m currently working on **Core Web API App**
  
- 🌱 I’m currently learning **Redis, Tailwind, React Native Expo**
+ 🌱 I’m currently learning **Angular**
 
- 💬 Ask me about **Node.js, React, Firebase, MongoDB... or anything [here](https://github.com/salesp07/salesp07/issues)**
+ 💬 Ask me about **Python, React, C#, MongoDB... or anything [here](https://github.com/zararashraf/zararashraf/issues)**
 
  ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
  
  </div>
- 
+
+<!-- Contact Links with Enhanced Icons -->
 <div align="center"> 
   <a href="mailto:zararashraf01@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+    <img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://linkedin.com/in/zararashraf" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/LinkedIn-333333?style=for-the-badge&logo=linkedin&logoColor=0077B5" target="_blank" />
   </a>
   <a href="https://github.com/zararashraf?tab=repositories" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
+     <img src="https://img.shields.io/badge/Portfolio-333333?style=for-the-badge&logo=github&logoColor=FF5722" target="_blank" />
   </a>
 </div>
 
+<!-- Divider -->
 <hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+
+<!-- Skills with Enhanced Icons -->
+<h2 align="center">⚒️ Skills ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,github,python,javascript,visualstudio,mongodb,sql,sqlite" /><br>
+    <img src="https://skillicons.dev/icons?i=csharp,dotnet,github,python,javascript,visualstudio,mongodb,vite,sqlite" /><br>
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mysql,flask,html,css,vscode,tailwind,git" />
 </div>
