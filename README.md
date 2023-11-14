@@ -12,10 +12,8 @@
 <!-- Main Content -->
 <div align="center">
  
- 🔭 I’m currently working on **Core Web API App**
+ 🔭 I’m currently working on **.NET Core Web API App**
  
- 🌱 I’m currently learning **Angular**
-
  💬 Ask me about **Python, React, C#, MongoDB... or anything [here](https://github.com/zararashraf/zararashraf/issues)**
 
  ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
