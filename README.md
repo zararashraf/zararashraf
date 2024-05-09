@@ -7,7 +7,7 @@
 <!-- Main Content -->
 <div align="center">
  
- 🔭 I’m currently working with **TrueMed IT** && **2B Vision Technologies**
+ 🔭 I’m currently working with **TrueMed IT**
  
  💬 Ask me about **Python, React, C#, .NET or anything [here](https://github.com/zararashraf/zararashraf/issues)**
  
