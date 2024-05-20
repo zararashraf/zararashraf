@@ -7,15 +7,12 @@
 <!-- Main Content -->
 <div align="center">
  
- 🔭 I’m currently working with **TrueMed IT**
- 
- 💬 Ask me about **Python, React, C#, .NET or anything [here](https://github.com/zararashraf/zararashraf/issues)**
- 
+ 🔭 I’m currently working with **TrueMed IT** 
  </div>
 
 <!-- Contact Links with Enhanced Icons -->
 <div align="center"> 
-  <a href="mailto:zarar.ashraf@outlook.co">
+  <a href="mailto:zarar.ashraf@outlook.com">
     <img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://linkedin.com/in/zararashraf" target="_blank">
