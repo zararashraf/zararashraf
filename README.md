@@ -30,5 +30,5 @@
 <h2 align="center">Skills</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,react,python,django" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,angular,react,python,django" />
 </div>
