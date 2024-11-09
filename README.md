@@ -7,7 +7,7 @@
 <!-- Main Content -->
 <div align="center">
  
- 🔭 I’m currently working with **TrueMed IT** 
+ 🔭 I’m currently working with **NETSOL Technologies Ltd.** 
  </div>
 
 <!-- Contact Links with Enhanced Icons -->
